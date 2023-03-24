@@ -1,0 +1,4 @@
+#Fri Mar 24 20:35:35 CST 2023
+base.0=/Users/xiaoxiajie/AndroidStudioProjects/chat_app_public/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
